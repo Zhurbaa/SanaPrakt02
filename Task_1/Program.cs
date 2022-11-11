@@ -1,6 +1,4 @@
-﻿
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
-Console.WriteLine("Курси Sana Commerce Software Development Bootcamp");
+﻿//See https://aka.ms/new-console-template for more information 
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.ReadLine();
